@@ -1,0 +1,20 @@
+**/storage/emulated/0/** ~~.sketchware/data/610/files/resource/layout/activity_main.xml:9: error: attribute layout_constraintBottom_toTopOf (aka sunnym.wi:layout_constraintBottom_toTopOf)~~ not found.
+~~/storage/emulated/0/.sketchware/data/610/files/resource/layout/activity_main.xml:9: error: attribute layout_constraintEnd_toEndOf (aka sunnym.wi:layout_constraintEnd_toEndOf) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/activity_main.xml:9: error: attribute layout_constraintStart_toStartOf (aka sunnym.wi:layout_constraintStart_toStartOf) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/activity_main.xml:9: error: attribute layout_constraintTop_toTopOf (aka sunnym.wi:layout_constraintTop_toTopOf) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/activity_main.xml:18: error: attribute layout_constraintBottom_toBottomOf (aka sunnym.wi:layout_constraintBottom_toBottomOf) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/activity_main.xml:18: error: attribute layout_constraintEnd_toEndOf (aka sunnym.wi:layout_constraintEnd_toEndOf) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/activity_main.xml:18: error: attribute layout_constraintStart_toStartOf (aka sunnym.wi:layout_constraintStart_toStartOf) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/activity_main.xml:18: error: attribute menu (aka sunnym.wi:menu) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/fragment_home.xml:33: error: resource drawable/bg_bottle_white (aka sunnym.wi:drawable/bg_bottle_white) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/fragment_stats.xml:10: error: attribute layout_constraintEnd_toEndOf (aka sunnym.wi:layout_constraintEnd_toEndOf) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/fragment_stats.xml:10: error: attribute layout_constraintStart_toStartOf (aka sunnym.wi:layout_constraintStart_toStartOf) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/fragment_stats.xml:10: error: attribute layout_constraintTop_toTopOf (aka sunnym.wi:layout_constraintTop_toTopOf) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/fragment_stats.xml:21: error: attribute layout_constraintEnd_toEndOf (aka sunnym.wi:layout_constraintEnd_toEndOf) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/fragment_stats.xml:21: error: attribute layout_constraintStart_toStartOf (aka sunnym.wi:layout_constraintStart_toStartOf) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/fragment_stats.xml:21: error: attribute layout_constraintTop_toBottomOf (aka sunnym.wi:layout_constraintTop_toBottomOf) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/fragment_stats.xml:30: error: attribute layout_constraintBottom_toTopOf (aka sunnym.wi:layout_constraintBottom_toTopOf) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/fragment_stats.xml:30: error: attribute layout_constraintEnd_toEndOf (aka sunnym.wi:layout_constraintEnd_toEndOf) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/fragment_stats.xml:30: error: attribute layout_constraintStart_toStartOf (aka sunnym.wi:layout_constraintStart_toStartOf) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/fragment_stats.xml:30: error: attribute layout_constraintTop_toTopOf (aka sunnym.wi:layout_constraintTop_toTopOf) not found.
+/storage/emulated/0/.sketchware/data/610/files/resource/layout/fragment_stats.xml:43: error: attribute layout_constraintBottom_toBottomOf (aka sunnym.wi:layout_constraintBottom_toBottomOf) not found.~~
